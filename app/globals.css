@@ -154,7 +154,7 @@
 
 .menu-card-reveal {
   opacity: 0;
-  animation: nebulaMenuCardsReveal 0.5s ease-out forwards;
+  animation: nebulaMenuCardsReveal 1s ease-out forwards;
   animation-delay: 1.5s;
   will-change: opacity;
 }
